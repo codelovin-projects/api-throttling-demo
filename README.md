@@ -1,1 +1,1 @@
-# api-throttling-demo
+# API Throttling Demo in Spring Boot
